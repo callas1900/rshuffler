@@ -11,4 +11,8 @@ bruce
 ```
 ## How to install
 
-plz download and use directory.
+1. download binary from release page.
+2. change it executable as below.
+```bash
+sudo chmod +x rshuffler
+```
